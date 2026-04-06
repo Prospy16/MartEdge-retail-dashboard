@@ -40,7 +40,7 @@ and payment method and seasonal sales volume analysis.
 the June 2023 naira devaluation and fuel subsidy removal, revenue 
 growth is masking a profitability crisis.
 
-![Executive Overview](images/overview.png)
+![Executive Overview](overview.png.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ but drive 52.7% of total revenue, each loyalty customer generates
 is the highest spending segment at ₦214M. Churn improved by 6.5% 
 year on year.
 
-![Customer Insights](images/customers.png)
+![Customer Insights](customers.png.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Appliances profit margin has collapsed. The LG NeoChef is operating
 at just 6.1% margin while recording high sales volume, a supplier 
 cost problem that is quietly destroying value.
 
-![Product Performance](images/products.png)
+![Product Performance](products.png.jpg)
 
 ---
 
